@@ -2,7 +2,7 @@
 
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=Microsoft%20Internship%20Project%20from%20Bundelkhand%20University,%20Jhansi%20UP%20(2025)&font=Raleway&language=1&pattern=Plus&theme=Light)
+![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=Microsoft%20Internship%20Project%20at%20Bundelkhand%20University,%20Jhansi%20UP%20(2025)&font=Raleway&language=1&pattern=Plus&theme=Light)
 
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>
@@ -25,7 +25,7 @@
       JAISH KUMAR
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the Microssoft online internship from
+  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the Microsoft online internship at
     <a href="https://www.bujhansi.ac.in/en">Bundelkhand University</a> during academic year 2025
   </small>
 </div><br/><br/>

@@ -13,12 +13,7 @@
   </p>
   
    <!--links-->
-  <h4>
-    <a href="#preview-">View Demo</a>
-    <span> · </span>
-    <a href="#setup--installation-">Installation</a>
-    <span> · </span>
-  </h4>
+  
   <p>
     <small align="justify">
       Built with efforts by 

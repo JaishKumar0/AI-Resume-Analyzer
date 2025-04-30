@@ -2,7 +2,7 @@
 
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
 
-![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light)
+![AI-Resume-Analyzer]([https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=Microsoft%20Internship%20Project%20from%20Bundelkhand%20University,%20Jhansi%20UP%20(2025)&font=Raleway&language=1&pattern=Plus&theme=Light))
 
 <div align="center">
   <h1>🌴 AI RESUME ANALYZER 🌴</h1>

@@ -20,8 +20,7 @@
       JAISH KUMAR
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the EDUNET - MICROSOFT FOUNDATION ARTIFICIAL INTELLIGENCE 4 WEEKS INTERNSHIP APRIL 2025 BATCH</small> at
-    <a href="https://www.bujhansi.ac.in/en">Bundelkhand University</a> during academic year 2025
+  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the EDUNET - MICROSOFT FOUNDATION ARTIFICIAL INTELLIGENCE 4 WEEKS INTERNSHIP APRIL 2025 BATCH</small> during academic year 2025
   </small>
 </div><br/><br/>
 

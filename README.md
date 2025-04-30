@@ -1,6 +1,6 @@
 # AI-Resume-Analyzer
 
-<p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
+<p><small><a href="https://github.com/settings/appearance">Light Mode</a></small></p><br/>
 
 
 

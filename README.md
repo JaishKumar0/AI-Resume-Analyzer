@@ -51,3 +51,43 @@ iv. It can be used by colleges to get insight of students and their resume befor
 v. Also, to get analytics for roles which users are mostly looking for
 
 vi. To improve this tool by getting feedbacks
+
+<!-- Features -->
+## Features 
+### Client: -
+- Fetching Location and Miscellaneous Data
+
+  Using Parsing Techniques to fetch
+- Basic Info
+- Skills
+- Keywords
+
+Using logical programs, it will recommend
+- Skills that can be added
+- Predicted job role
+- Course and certificates
+- Resume tips and ideas
+- Overall Score
+- Interview & Resume tip videos
+
+### Admin: -
+- Get all applicant’s data into tabular format
+- Download user’s data into csv file
+- View all saved uploaded pdf in Uploaded Resume folder
+- Get user feedback and ratings
+  
+  Pie Charts for: -
+- Ratings
+- Predicted field / roles
+- Experience level
+- Resume score
+- User count
+- City
+- State
+- Country
+
+### Feedback: -
+- Form filling
+- Rating from 1 – 5
+- Show overall ratings pie chart
+- Past user comments history 
